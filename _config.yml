@@ -61,7 +61,8 @@ plugins:
 author:
   name   : "Jordi Marias I Parella"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Studies: Master's and Bachelor's Degree in Telecommunications Engineering
+  Working as: Vehicular Communications Researcher and Software Developer"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
